@@ -4,5 +4,9 @@
 <h2>NO2 AQI</h2>
 <p> In the following figure the countries whose AQI is greater than 5 is shown:<br><br>
 <img src='https://github.com/kaveh7293/Data-Visualization-of-Olympic-Data-Using-Tableau/blob/main/NO2_index_greater_than5.png'><br>
-As can be seen South Korea, USA, China, Algeria, South Africa, Mexico, Costa Rica, Dominican Republic and Chile have hire NO2 AQI compared to the rest of the world. In this figure, the countries with NO2 AQI of greater than 5 are filtered to be colored and the rest of countries were not indicated with any color.</p>
+As can be seen South Korea, USA, China, Algeria, South Africa, Mexico, Costa Rica, Dominican Republic and Chile have hire NO2 AQI compared to the rest of the world. In this figure, the countries with NO2 AQI of greater than 5 are filtered to be colored and the rest of countries were not indicated with any color. In the following figures, the plots of CO and Ozone AQI are also shown:<br>
+<img src='https://github.com/kaveh7293/Data-Visualization-of-Olympic-Data-Using-Tableau/blob/main/CO_index_greater_than5.png'><br>
+<img src='https://github.com/kaveh7293/Data-Visualization-of-Olympic-Data-Using-Tableau/blob/main/Ozone.png'>
+
+</p>
 
