@@ -9,5 +9,10 @@ As can be seen South Korea, USA, China, Algeria, South Africa, Mexico, Costa Ric
 <img src='https://github.com/kaveh7293/Data-Visualization-of-Olympic-Data-Using-Tableau/blob/main/Ozone.png'><br>
 The countries with larger CO and Ozone emissions are USA, China, Algeria, South Africa, Korea, Dominican Republic, Costa Rica and Chile.
 
+</p><br>
+<p> Finally, I did a PCA dimension reduction followed by a biplot to see which features mostly distinguish the cities in the world in terms of pollutant emission. As shown, only a few cities in the world have high emissions of CO and NO2 (see the upper right corner of the t1 vs. t2 plot). Most of the cities in the world have no significant production (e.g., see the green cluster in the center of the figures):<br>
+<img src='https://github.com/kaveh7293/Data-Visualization-of-Olympic-Data-Using-Tableau/blob/main/t1_t2.png'>
+
+
 </p>
 
