@@ -1,4 +1,4 @@
-# Data-Visualization-of-Olympic-Data-Using-Tableau
+# Data-Visualization-of-Pollutant-Emission-Using-Tableau and Python
 <h2>Overview</h2>
 <p> In this project, I used Tableau to visualize the data describing the Air Polution in different countries all around the world. The dataset that is used was downloaded from <a href='https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset'> here</a>. This dataset contains information about the concentration of different pollutant species within the air (e.g., carbon monoxide and ozone). </p><br>
 <h2>NO2 AQI</h2>
