@@ -11,7 +11,7 @@ The countries with larger CO and Ozone emissions are USA, China, Algeria, South 
 
 </p><br>
 <p> Finally, I did a PCA dimension reduction followed by a biplot to see which features mostly distinguish the cities in the world in terms of pollutant emission.
-  I chose three principal components, as the first three components describes 95% of the variability in the data. The first two principal components describe 85% of variation in the data:<br>
+  I chose three principal components, as the first three components describes 95% of the variability in the data. The first two principal components describe 80% of variation in the data:<br>
   <img src='https://github.com/kaveh7293/Data-Visualization-of-Olympic-Data-Using-Tableau/blob/main/pc_variability.png'><br>
   As shown, only a few cities in the world have high emissions of CO and NO2 (see the upper right corner of the t1 vs. t2 plot). Most of the cities in the world have no significant production (e.g., see the green cluster in the center of the figures):<br>
 <img src='https://github.com/kaveh7293/Data-Visualization-of-Olympic-Data-Using-Tableau/blob/main/t1_t2.png'><br>
