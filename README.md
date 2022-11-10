@@ -16,7 +16,7 @@ The countries with larger CO and Ozone emissions are USA, China, Algeria, South 
   As shown, only a few cities in the world have high emissions of CO and NO2 (see the upper right corner of the t1 vs. t2 plot). Most of the cities in the world have no significant production (e.g., see the green cluster in the center of the figures):<br>
 <img src='https://github.com/kaveh7293/Data-Visualization-of-Olympic-Data-Using-Tableau/blob/main/t1_t2.png'><br>
 
-  Based on the clustering analysis, the cities in the red cluster have higher ozone production.
+  Based on the clustering analysis, the cities in the red cluster have higher ozone production. People within the same clusters should probably follow smilar policies in order to reduce their emissions. Doing this cluster analysis could help countries with the same problem to gather and work together in order to solver this important environmental problems more efficiently. The code for these implementations can be found <a href=''>
 
 </p>
 
